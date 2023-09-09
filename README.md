@@ -3,9 +3,9 @@ This tool allows you to scrape the latest top startup news articles from the New
 
 Features
 
-1.Scraping Top Startup News: Automatically fetch the most recent and trending startup news articles from the News API.
-2.Curated List Generation: Compile the scraped articles into a neatly organized list.
-3.Email Distribution: Send out the curated list of startup news articles to your subscribers or mailing list.
-4.Customization: Tailor the email content, schedule, and formatting to suit your needs.
-5.Easy Configuration: Simple setup and configuration, making it accessible for users of all skill levels.
-6.Automation: Schedule regular updates to keep your subscribers informed with minimal effort.
+Scraping Top Startup News: Automatically fetch the most recent and trending startup news articles from the News API.
+Curated List Generation: Compile the scraped articles into a neatly organized list.
+Email Distribution: Send out the curated list of startup news articles to your subscribers or mailing list.
+Customization: Tailor the email content, schedule, and formatting to suit your needs.
+Easy Configuration: Simple setup and configuration, making it accessible for users of all skill levels.
+Automation: Schedule regular updates to keep your subscribers informed with minimal effort.
